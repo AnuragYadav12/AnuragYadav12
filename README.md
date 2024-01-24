@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnuragYadav12
+- 👋 Hi, I’m AnuragYadav
 - 👀 I’m interested in Web Dev, Android App Dev, Machine Learning, Python
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Data Analytics and AI
 - 💞️ I’m looking to collaborate on any of the above mentioned fields
 - 📫 How to reach me . Just drop a mail on abcanuragyadav251@gmail.com 
 
